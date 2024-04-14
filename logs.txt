@@ -1,0 +1,23 @@
+David@DESKTOP-QG78CTM MINGW64 ~/Desktop/SI_2024_lab1_181549 (master)
+$ git pull origin master
+fatal: couldn't find remote ref master
+
+David@DESKTOP-QG78CTM MINGW64 ~/Desktop/SI_2024_lab1_181549 (master)
+$ git push -u origin master
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (8/8), 1.13 KiB | 1.13 MiB/s, done.
+Total 8 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/DavidTosheski/SI_2024_lab1_181549.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+
+David@DESKTOP-QG78CTM MINGW64 ~/Desktop/SI_2024_lab1_181549 (master)
+$ git pull origin master
+From https://github.com/DavidTosheski/SI_2024_lab1_181549
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+
+//nema se bidejki go restartirav terminalot poradi kocenje
