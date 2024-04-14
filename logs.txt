@@ -1,3 +1,17 @@
+
+git status - прикажува состојба на работниот директориум
+git add <file> - додава датотеки во staging area
+git commit -m - креира нов комит со промените во staging area
+git pull origin master -  ја влече последната верзија од master
+git push origin master - ја праќа главната гранка од локалниот во оддалечениот репозиториум
+git remote add origin - додава конекција за оддалечениот репозиториум со одредено УРЛ.
+
+
+
+
+
+
+
 David@DESKTOP-QG78CTM MINGW64 ~/Desktop/SI_2024_lab1_181549 (master)
 $ git pull origin master
 fatal: couldn't find remote ref master
